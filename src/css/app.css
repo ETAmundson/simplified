@@ -7,16 +7,16 @@
 @import 'recipe-edit.css';
 
 * {
-  font-family: Gotham Rounded;
   box-sizing: border-box;
+  font-family: Gotham Rounded;
 }
 html {
   font-size: 25px;
 }
 body {
   background-color: #80d4ff;
-  padding: 0;
   margin: 0;
+  padding: 0;
 }
 
 .mr-1 {
